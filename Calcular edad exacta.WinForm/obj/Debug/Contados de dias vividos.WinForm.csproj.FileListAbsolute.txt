@@ -1,0 +1,10 @@
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\bin\Debug\Contados de dias vividos.WinForm.exe.config
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\bin\Debug\Contados de dias vividos.WinForm.exe
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\bin\Debug\Contados de dias vividos.WinForm.pdb
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\obj\Debug\Contados de dias vividos.WinForm.csproj.AssemblyReference.cache
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\obj\Debug\Contados_de_dias_vividos.WinForm.Form1.resources
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\obj\Debug\Contados_de_dias_vividos.WinForm.Properties.Resources.resources
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\obj\Debug\Contados de dias vividos.WinForm.csproj.GenerateResource.cache
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\obj\Debug\Contados de dias vividos.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\obj\Debug\Contados de dias vividos.WinForm.exe
+C:\Users\Joaco\Desktop\VS2019\Contados de dias vividos\Contados de dias vividos.WinForm\obj\Debug\Contados de dias vividos.WinForm.pdb
